@@ -1,3 +1,0 @@
-# MulticastSocketClientAndServer
-组播套接字的Client和Server
-UDP实现组播数据包的发送接收测试
